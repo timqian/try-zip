@@ -1,0 +1,5 @@
+*.m3d
+*.zip
+node_modules
+hi
+.DS_Store
